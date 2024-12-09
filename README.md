@@ -11,7 +11,7 @@ Pastikan perangkat Anda memiliki:
    - Python  
    - Jupyter   
 3. **PostgreSQL** sebagai database pendukung.  
-4. Semua library Python yang dibutuhkan.  
+4. Install semua library Python yang dibutuhkan.  
 
 ---
 
